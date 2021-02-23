@@ -1,4 +1,4 @@
-# Online Peer Learning by students and researchers at the Center for Research and Interdisciplinarity during the transition to e-learning as a strategy to face the Covid-19.
+# Online Peer Learning by students and researchers at the Center for Research and Interdisciplinarity as a strategy to face the Covid-19.
 
 **Data Analysis Team:** Merlyn Johanna Hurtado, Paul Montecot Grall @paulmontecot
 
@@ -59,6 +59,10 @@ The data analysis is based on:
 # 8. Main Results
 
 ![logoCRI](https://github.com/merlynjocol/Online_Peer_Learning_Analysis/blob/main/Main%20Results.JPG)
+
+# 9. Article 
+
+https://github.com/merlynjocol/Online_Peer_Learning_Analysis/blob/main/Online_Peer_Learning_Article.pdf
 
 # 9. Credits
 * Ariel Lindner. Co-Founder & Research Director. Center for Research and Interdisciplinary -CRI-. Paris, France 
