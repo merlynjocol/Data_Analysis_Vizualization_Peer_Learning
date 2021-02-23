@@ -6,9 +6,9 @@
 
 # 1. Description
 
-This data analysis is part of the Open Science Project and the Academic Article develop during the OpenScience Course at the Master AIRE in the Center for Research and Interdisciplinarity -CRI-
+This data analysis is part of the Open Science Project at the Master AIRE in the Center for Research and Interdisciplinarity -CRI- https://projects.cri-paris.org/projects/ZiC2QRv7/summary
 
-The research aims to explore the peer learning in online times used by the CRI Learning Community. 
+The main goal of this analysis is to explore peer-learning experience in this "online time", listening to students and researchers.
 
 
 # 2. Abstract 
@@ -16,20 +16,18 @@ This past decade has seen the integration of digital technologies into everyday 
 
 *Keywords: online peer learning / e-learning / peer-learning / communication / CRI / online tools / social media* 
 
-# 3. Approaching the Analysis
+# 3. Research Process
 
-## -Research Process
-
-<img src="https://github.com/merlynjocol/Online_Peer_Learning_Analysis/blob/main/Diagram_Research.JPG" width="500" height="300">
+<img src="https://github.com/merlynjocol/Online_Peer_Learning_Analysis/blob/main/Diagram_Research.JPG" width="550" height="300">
 
 
-## -Data collection
+# 4. Data collection
 
 The tool used for collecting the data was an online survey to conduct quantitative research while utilizing open questions
 Access to the Survey: https://tinyurl.com/surveypeers
 
 
-## -Data Analysis
+# 5. Data Analysis
 The data analysis is based on:
 * Clean data and creating new variables
 * Exploration Data Analysis 
@@ -38,7 +36,7 @@ The data analysis is based on:
 * Correlation Analysis - Model Theil's U-  for categorical variables
 
 
-# 4. Files in the repository
+# 6. Files in the repository
 
 * `Data_analysis.ipynb`: Contain the Exploratory data Analysis, final Analysis and visualizations
 * `responses_PL2.csv`: Contain the Dataset
@@ -46,7 +44,7 @@ The data analysis is based on:
 * `Diagram_Research.jpg`: Image with the diagram process of the research
 * `Main Results.JPG`: Image with the main results
 
-# 5. Installation guide
+# 7. Installation guide
 
 **Code and Data**
 
@@ -57,11 +55,11 @@ The data analysis is based on:
 **Dataset**
 * `responses_PL2.csv` https://github.com/merlynjocol/Online_Peer_Learning_Analysis/blob/main/responses_PL2.csv
 
-# 7. Main Results
+# 8. Main Results
 
 ![logoCRI](https://github.com/merlynjocol/Online_Peer_Learning_Analysis/blob/main/Main%20Results.JPG)
 
-# 8. Credits
+# 9. Credits
 * Ariel Lindner. Co-Founder & Research Director. Center for Research and Interdisciplinary -CRI-. Paris, France 
 * Bastian Greshake Tzovaras. Long term fellow. Center for Research and Interdisciplinary -CRI-. Paris, France 
 * Enric Senabre Hidalgo. Postdoctoral researcher. Center for Research and Interdisciplinary -CRI-. Paris, France 
