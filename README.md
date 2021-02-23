@@ -1,8 +1,7 @@
 # Online Peer Learning by students and researchers at the Center for Research and Interdisciplinarity during the transition to e-learning as a strategy to face the Covid-19.
 
-**Team:** Annie Hasserjian, Naomie Guille, Merlyn Johanna Hurtado, Paul Montecot Grall, Plaifon Parama
-
-January 2021 
+**Data Analysis Team:** Merlyn Johanna Hurtado, Paul Montecot Grall
+**Writing Article Team:** Annie Hasserjian, Naomie Guille, Merlyn Johanna Hurtado, Paul Montecot Grall, Plaifon Parama
 
 # 1. Description
 
@@ -47,7 +46,7 @@ The data analysis is based on:
 * *Gender*  This variable shows how is the use of online tools and Peer Learning by gender
 
 
-# 4.Files in the respository
+# 4. Files in the repository
 
 * `Data_analysis.ipynb`: Contain the Exploratory data Analysis, final Analysis and visualizations
 * `responses_PL2.csv`: Contain the Dataset
