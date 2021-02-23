@@ -1,6 +1,7 @@
 # Online Peer Learning by students and researchers at the Center for Research and Interdisciplinarity during the transition to e-learning as a strategy to face the Covid-19.
 
-**Data Analysis Team:** Merlyn Johanna Hurtado, Paul Montecot Grall
+**Data Analysis Team:** Merlyn Johanna Hurtado, Paul Montecot Grall @paulmontecot
+
 
 **Writing Team:** Annie Hasserjian, Naomie Guille, Merlyn Johanna Hurtado, Paul Montecot Grall, Plaifon Parama
 
@@ -62,7 +63,7 @@ The data analysis is based on:
 
 # 9. Credits
 * Ariel Lindner. Co-Founder & Research Director. Center for Research and Interdisciplinary -CRI-. Paris, France 
-* Bastian Greshake Tzovaras. Long term fellow. Center for Research and Interdisciplinary -CRI-. Paris, France 
+* Bastian Greshake Tzovaras. Long term fellow. Center for Research and Interdisciplinary -CRI-. Paris, France @gedankenstuecke
 * Enric Senabre Hidalgo. Postdoctoral researcher. Center for Research and Interdisciplinary -CRI-. Paris, France 
 * Michael Rera. Core Fellow. Center for Research and Interdisciplinary -CRI-. Paris, France 
 
