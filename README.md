@@ -1,7 +1,8 @@
 # Online Peer Learning by students and researchers at the Center for Research and Interdisciplinarity during the transition to e-learning as a strategy to face the Covid-19.
 
 **Data Analysis Team:** Merlyn Johanna Hurtado, Paul Montecot Grall
-**Writing Article Team:** Annie Hasserjian, Naomie Guille, Merlyn Johanna Hurtado, Paul Montecot Grall, Plaifon Parama
+
+**Writing Team:** Annie Hasserjian, Naomie Guille, Merlyn Johanna Hurtado, Paul Montecot Grall, Plaifon Parama
 
 # 1. Description
 
@@ -35,15 +36,6 @@ The data analysis is based on:
 * Descriptive statistics of the peer learning practices and tools used in the different educational programs
 * Analysis of the Tools and Peer learning practices by educational programs and gender 
 * Correlation Analysis - Model Theil's U-  for categorical variables
-
-## -Categories in the analysis 
-
-* *Size of  the Online Peer Learning Network.* The  number of people that a person communicates with for the purpose of online peer learning. 
-* *Type of Peer Learning*. This variable is divided into 6 categories of Peer Learning: Cooperative Learning, Peer Collaboration, Peer Tutoring, Exchanging Information, CRI student seminars,  Peer Assessment, Peer Discussion.
-* *Tools for online  Peer Learning*. The different tools used and the use of social media for peer learning.
-* *Perceptions* measure as  Importance and Quality of Peer Learning in a category level from 1 to 5.
-* *Online Peer learning Driven*. This variable shows what is driven by peer learning in the CRI community, self-motivation by students, imposed by teachers or a combination of both options. 
-* *Gender*  This variable shows how is the use of online tools and Peer Learning by gender
 
 
 # 4. Files in the repository
